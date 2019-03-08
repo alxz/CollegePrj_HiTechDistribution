@@ -241,3 +241,6 @@ C:\git\csharp\FinalProject_V4.5\MainProgram_StartHere\WinFrmFProj\obj\Debug\HiTe
 C:\git\csharp\FinalProject_V4.5\MainProgram_StartHere\WinFrmFProj\obj\Debug\HiTechWinFrm.csproj.CopyComplete
 C:\git\csharp\FinalProject_V4.5\MainProgram_StartHere\WinFrmFProj\obj\Debug\HiTech_Distribution_Inc.exe
 C:\git\csharp\FinalProject_V4.5\MainProgram_StartHere\WinFrmFProj\obj\Debug\HiTech_Distribution_Inc.pdb
+C:\git\AdvancedObjPrg\FinalProject_V4.5\MainProgram_StartHere\WinFrmFProj\obj\Debug\HiTechWinFrm.csprojAssemblyReference.cache
+C:\git\AdvancedObjPrg\FinalProject_V4.5\MainProgram_StartHere\WinFrmFProj\obj\Debug\HiTech_Distribution_Inc.exe
+C:\git\AdvancedObjPrg\FinalProject_V4.5\MainProgram_StartHere\WinFrmFProj\obj\Debug\HiTech_Distribution_Inc.pdb

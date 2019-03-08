@@ -32,3 +32,8 @@ C:\git\csharp\FinalProject_V4.5\HiTech\HiTech\bin\Debug\HiTech.pdb
 C:\git\csharp\FinalProject_V4.5\HiTech\HiTech\obj\Debug\HiTech.csproj.CoreCompileInputs.cache
 C:\git\csharp\FinalProject_V4.5\HiTech\HiTech\obj\Debug\HiTech.dll
 C:\git\csharp\FinalProject_V4.5\HiTech\HiTech\obj\Debug\HiTech.pdb
+C:\git\AdvancedObjPrg\FinalProject_V4.5\HiTech\HiTech\bin\Debug\HiTech.dll
+C:\git\AdvancedObjPrg\FinalProject_V4.5\HiTech\HiTech\bin\Debug\HiTech.pdb
+C:\git\AdvancedObjPrg\FinalProject_V4.5\HiTech\HiTech\obj\Debug\HiTech.csproj.CoreCompileInputs.cache
+C:\git\AdvancedObjPrg\FinalProject_V4.5\HiTech\HiTech\obj\Debug\HiTech.dll
+C:\git\AdvancedObjPrg\FinalProject_V4.5\HiTech\HiTech\obj\Debug\HiTech.pdb
