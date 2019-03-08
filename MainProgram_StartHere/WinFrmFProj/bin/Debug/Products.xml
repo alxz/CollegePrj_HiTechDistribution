@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product xsi:type="Book">
+    <ProdId>1100</ProdId>
+    <UnitPrice>55.99</UnitPrice>
+    <SupplId>1001</SupplId>
+    <QtyOnHand>100</QtyOnHand>
+    <ProdName>Beginning C#: Object-Oriented Programming</ProdName>
+    <ProdCat>Book</ProdCat>
+    <ProdStatus>false</ProdStatus>
+    <BookISBN>978-1-4302-4935-1</BookISBN>
+    <BookTitle>Beginning C#: Object-Oriented Programming</BookTitle>
+    <YearReleased>2013</YearReleased>
+    <BookCat>Science_Fiction</BookCat>
+    <ListAuthors>
+      <Author>
+        <AuthId>1000</AuthId>
+        <AuthFirstName>Paul</AuthFirstName>
+        <AuthLastName>Deitel</AuthLastName>
+      </Author>
+    </ListAuthors>
+  </Product>
+  <Product xsi:type="Book">
+    <ProdId>1101</ProdId>
+    <UnitPrice>35.99</UnitPrice>
+    <SupplId>1002</SupplId>
+    <QtyOnHand>24</QtyOnHand>
+    <ProdName>C# Programming Yellow Book</ProdName>
+    <ProdCat>Book</ProdCat>
+    <ProdStatus>true</ProdStatus>
+    <BookISBN>B00HNSGM9A-KINDLE</BookISBN>
+    <BookTitle>C# Programming Yellow Book</BookTitle>
+    <YearReleased>2015</YearReleased>
+    <BookCat>Horror</BookCat>
+    <ListAuthors>
+      <Author>
+        <AuthId>1007</AuthId>
+        <AuthFirstName>Stephen</AuthFirstName>
+        <AuthLastName>Teilhet</AuthLastName>
+      </Author>
+    </ListAuthors>
+  </Product>
+  <Product xsi:type="Book">
+    <ProdId>1102</ProdId>
+    <UnitPrice>14.95</UnitPrice>
+    <SupplId>1003</SupplId>
+    <QtyOnHand>201</QtyOnHand>
+    <ProdName>Learn C# in One Day and Learn it Well</ProdName>
+    <ProdCat>Book</ProdCat>
+    <ProdStatus>true</ProdStatus>
+    <BookISBN>978-1518800276</BookISBN>
+    <BookTitle>Learn C# in One Day and Learn it Well</BookTitle>
+    <YearReleased>2015</YearReleased>
+    <BookCat>Horror</BookCat>
+    <ListAuthors>
+      <Author>
+        <AuthId>1008</AuthId>
+        <AuthFirstName>Jon</AuthFirstName>
+        <AuthLastName>Skeet</AuthLastName>
+      </Author>
+      <Author>
+        <AuthId>1009</AuthId>
+        <AuthFirstName>Ben</AuthFirstName>
+        <AuthLastName>Albahari</AuthLastName>
+      </Author>
+    </ListAuthors>
+  </Product>
+  <Product xsi:type="Book">
+    <ProdId>1103</ProdId>
+    <UnitPrice>35.6</UnitPrice>
+    <SupplId>1003</SupplId>
+    <QtyOnHand>34</QtyOnHand>
+    <ProdName>C# Programming: Quickly Learn C# Programming</ProdName>
+    <ProdCat>Book</ProdCat>
+    <ProdStatus>false</ProdStatus>
+    <BookISBN>B01NH061H2</BookISBN>
+    <BookTitle>C# Programming: Quickly Learn C# Programming</BookTitle>
+    <YearReleased>2016</YearReleased>
+    <BookCat>Horror</BookCat>
+    <ListAuthors>
+      <Author>
+        <AuthId>1001</AuthId>
+        <AuthFirstName>Harvei</AuthFirstName>
+        <AuthLastName>Deitel</AuthLastName>
+      </Author>
+      <Author>
+        <AuthId>1007</AuthId>
+        <AuthFirstName>Stephen</AuthFirstName>
+        <AuthLastName>Teilhet</AuthLastName>
+      </Author>
+    </ListAuthors>
+  </Product>
+  <Product xsi:type="Book">
+    <ProdId>1104</ProdId>
+    <UnitPrice>35.99</UnitPrice>
+    <SupplId>1002</SupplId>
+    <QtyOnHand>34</QtyOnHand>
+    <ProdName>Programming PHP: Creating Dynamic Web Pages</ProdName>
+    <ProdCat>Book</ProdCat>
+    <ProdStatus>false</ProdStatus>
+    <BookISBN>978-1449392772</BookISBN>
+    <BookTitle>Programming PHP: Creating Dynamic Web Pages</BookTitle>
+    <YearReleased>1995</YearReleased>
+    <BookCat>Action_Adventure</BookCat>
+    <ListAuthors>
+      <Author>
+        <AuthId>1001</AuthId>
+        <AuthFirstName>Harvei</AuthFirstName>
+        <AuthLastName>Deitel</AuthLastName>
+      </Author>
+    </ListAuthors>
+  </Product>
+  <Product xsi:type="Book">
+    <ProdId>1105</ProdId>
+    <UnitPrice>45.99</UnitPrice>
+    <SupplId>1001</SupplId>
+    <QtyOnHand>24</QtyOnHand>
+    <ProdName>C# Programming Red Book</ProdName>
+    <ProdCat>Book</ProdCat>
+    <ProdStatus>false</ProdStatus>
+    <BookISBN>B11HNSGM9A-KINDLE</BookISBN>
+    <BookTitle>C# Programming Red Book</BookTitle>
+    <YearReleased>2016</YearReleased>
+    <BookCat>Horror</BookCat>
+    <ListAuthors>
+      <Author>
+        <AuthId>1008</AuthId>
+        <AuthFirstName>Jon</AuthFirstName>
+        <AuthLastName>Skeet</AuthLastName>
+      </Author>
+    </ListAuthors>
+  </Product>
+  <Product xsi:type="Book">
+    <ProdId>1106</ProdId>
+    <UnitPrice>51.05</UnitPrice>
+    <SupplId>1002</SupplId>
+    <QtyOnHand>34</QtyOnHand>
+    <ProdName>Java: The Complete Reference</ProdName>
+    <ProdCat>Book</ProdCat>
+    <ProdStatus>true</ProdStatus>
+    <BookISBN>978-1259589331</BookISBN>
+    <BookTitle>Java: The Complete Reference</BookTitle>
+    <YearReleased>2017</YearReleased>
+    <BookCat>Horror</BookCat>
+    <ListAuthors>
+      <Author>
+        <AuthId>1007</AuthId>
+        <AuthFirstName>Stephen</AuthFirstName>
+        <AuthLastName>Teilhet</AuthLastName>
+      </Author>
+    </ListAuthors>
+  </Product>
+  <Product xsi:type="Software">
+    <ProdId>2101</ProdId>
+    <UnitPrice>135.99</UnitPrice>
+    <SupplId>1003</SupplId>
+    <QtyOnHand>34</QtyOnHand>
+    <ProdName>Windows 10 Home Edition</ProdName>
+    <ProdCat>Software</ProdCat>
+    <ProdStatus>true</ProdStatus>
+    <SoftName>Windows 10 Home Edition</SoftName>
+    <SoftCateg>OperationSystem</SoftCateg>
+    <OsCateg>Windows</OsCateg>
+  </Product>
+  <Product xsi:type="Software">
+    <ProdId>2102</ProdId>
+    <UnitPrice>305.99</UnitPrice>
+    <SupplId>1002</SupplId>
+    <QtyOnHand>56</QtyOnHand>
+    <ProdName>Adobe Photoshop CS 18</ProdName>
+    <ProdCat>Software</ProdCat>
+    <ProdStatus>true</ProdStatus>
+    <SoftName>Adobe Photoshop CS 18</SoftName>
+    <SoftCateg>GraphicsDesign</SoftCateg>
+    <OsCateg>MacOS</OsCateg>
+  </Product>
+  <Product xsi:type="Software">
+    <ProdId>2103</ProdId>
+    <UnitPrice>255.99</UnitPrice>
+    <SupplId>1002</SupplId>
+    <QtyOnHand>6</QtyOnHand>
+    <ProdName>Adobe Photoshop CS 16</ProdName>
+    <ProdCat>Software</ProdCat>
+    <ProdStatus>false</ProdStatus>
+    <SoftName>Adobe Photoshop CS 16</SoftName>
+    <SoftCateg>GraphicsDesign</SoftCateg>
+    <OsCateg>Android</OsCateg>
+  </Product>
+  <Product xsi:type="Book">
+    <ProdId>2104</ProdId>
+    <UnitPrice>65.95</UnitPrice>
+    <SupplId>1004</SupplId>
+    <QtyOnHand>20</QtyOnHand>
+    <ProdName>Java: A beginners Guide</ProdName>
+    <ProdCat>Book</ProdCat>
+    <ProdStatus>true</ProdStatus>
+    <BookISBN>978-0-07-180925</BookISBN>
+    <BookTitle>Java: A beginners Guide</BookTitle>
+    <YearReleased>2014</YearReleased>
+    <BookCat>Text_Book</BookCat>
+    <ListAuthors>
+      <Author>
+        <AuthId>1002</AuthId>
+        <AuthFirstName>Andrew</AuthFirstName>
+        <AuthLastName>Troelsen</AuthLastName>
+      </Author>
+      <Author>
+        <AuthId>1005</AuthId>
+        <AuthFirstName>Philip</AuthFirstName>
+        <AuthLastName>Japikse</AuthLastName>
+      </Author>
+      <Author>
+        <AuthId>1007</AuthId>
+        <AuthFirstName>Stephen</AuthFirstName>
+        <AuthLastName>Teilhet</AuthLastName>
+      </Author>
+      <Author>
+        <AuthId>1009</AuthId>
+        <AuthFirstName>Ben</AuthFirstName>
+        <AuthLastName>Albahari</AuthLastName>
+      </Author>
+    </ListAuthors>
+  </Product>
+  <Product xsi:type="Software">
+    <ProdId>2105</ProdId>
+    <UnitPrice>510.55</UnitPrice>
+    <SupplId>1004</SupplId>
+    <QtyOnHand>15</QtyOnHand>
+    <ProdName>Windows Server 2016 Datacenter</ProdName>
+    <ProdCat>Software</ProdCat>
+    <ProdStatus>true</ProdStatus>
+    <SoftName>Windows Server 2016 Datacenter</SoftName>
+    <SoftCateg>OperationSystem</SoftCateg>
+    <OsCateg>Windows</OsCateg>
+  </Product>
+  <Product xsi:type="Software">
+    <ProdId>2106</ProdId>
+    <UnitPrice>5.05</UnitPrice>
+    <SupplId>1005</SupplId>
+    <QtyOnHand>100</QtyOnHand>
+    <ProdName>Omnivox client for IOS</ProdName>
+    <ProdCat>Software</ProdCat>
+    <ProdStatus>true</ProdStatus>
+    <SoftName>Omnivox client for IOS</SoftName>
+    <SoftCateg>Other</SoftCateg>
+    <OsCateg>iOS</OsCateg>
+  </Product>
+</ArrayOfProduct>
